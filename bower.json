@@ -26,7 +26,7 @@
     "paper-item": "Polymerelements/paper-item#2.0-preview",
     "iron-icons": "Polymerelements/iron-icons#2.0-preview",
     "paper-icon-button": "Polymerelements/paper-icon-button#2.0-preview",
-    "paper-chip": "WebPaperElements/paper-chip#2.0-preview",
+    "paper-chip": "AndreyLadniy/paper-chip#^2.0.0",
     "paper-material": "PolymerElements/paper-material#2.0-preview",
     "iron-behaviors": "PolymerElements/iron-behaviors#2.0-preview",
     "iron-form-element-behavior": "PolymerElements/iron-form-element-behavior#2.0-preview",
